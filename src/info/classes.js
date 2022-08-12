@@ -5,6 +5,7 @@ export const inf111 = {
 	paralelo: 'D',
 	classroom: 'SS-A2',
 	classLink: 'https://cvinformatica.umsa.bo/',
+	classAuxi: '',
 	platform: 'Moodle',
 };
 
@@ -17,6 +18,18 @@ export const inf112 = {
 	classLink:
 		'https://classroom.google.com/u/0/c/NTM3NzUxNjQ5NTI0?cjc=rq67p3o',
 	platform: 'Google Classroom',
+	classAuxi: '',
+};
+
+export const auxiInf111 = {
+	title: 'Auxilitura Inf112',
+	teacher: 'Yessid',
+	auxi: '',
+	paralelo: 'D',
+	classroom: 'P3 L1',
+	classLink: 'https://classroom.google.com/u/3/c/NTM3ODc5NzU1MDA5?pli=1',
+	platform: 'Google Classroom',
+	classAuxi: '',
 };
 
 export const inf113 = {
@@ -27,6 +40,7 @@ export const inf113 = {
 	classroom: 'LASIN2',
 	classLink: '',
 	platform: '',
+	classAuxi: '',
 };
 
 export const lab111 = {
@@ -37,6 +51,7 @@ export const lab111 = {
 	classroom: 'PA-A1',
 	classLink: 'https://cvinformatica.umsa.bo/',
 	platform: 'Google Classroom',
+	classAuxi: '',
 };
 
 export const mat114 = {
@@ -47,6 +62,7 @@ export const mat114 = {
 	classroom: 'PABELLNE',
 	classLink: '',
 	platform: '',
+	classAuxi: '',
 };
 
 export const mat115 = {
@@ -58,6 +74,7 @@ export const mat115 = {
 	classLink:
 		'https://teams.microsoft.com/_?tenantId=b1c91974-898d-4e76-afe4-6a2c42b15584#/discover',
 	platform: '',
+	classAuxi: '',
 };
 
 export const lin116 = {
@@ -68,4 +85,5 @@ export const lin116 = {
 	classroom: 'PB-A1',
 	classLink: '',
 	platform: '',
+	classAuxi: '',
 };

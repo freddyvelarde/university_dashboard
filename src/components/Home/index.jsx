@@ -7,6 +7,7 @@ import {
 	mat115,
 	lin116,
 	lab111,
+	auxiInf111,
 } from '../../info/classes';
 import Cards from './Cards';
 
@@ -14,6 +15,7 @@ function Home() {
 	return (
 		<HomeStyled>
 			<Cards materia={inf111} />
+			<Cards materia={auxiInf111} />
 			<Cards materia={inf112} />
 			<Cards materia={inf113} />
 			<Cards materia={mat114} />
